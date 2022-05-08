@@ -13,7 +13,7 @@ It's a fucking mistake.
 
 
 ### My VWST doesn't work, what do I do?
-Most likely your main issue is that you have 0 bitches, but for the small chance you actually pull up and recieve maidens, feel free to join the Discord (still need to make it) and report the issue 2 me
+Most likely your main issue is that you have 0 bitches, but for the small chance you actually pull up and recieve maidens, feel free to join the Discord: https://discord.gg/zNjYUnhP4u and report the issue 2 me
 
 
 ### Can I join the dev team for VWST?
