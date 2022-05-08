@@ -9,7 +9,7 @@ It's a fucking mistake.
 
 
 ### How do I get a VWST?
-[Click this link] (https://github.com/vwst-site/vwst-site.github.io/releases/download/release/VWST2.zip)
+[Click this link](https://github.com/vwst-site/vwst-site.github.io/releases/download/release/VWST2.zip)
 
 
 ### My VWST doesn't work, what do I do?
