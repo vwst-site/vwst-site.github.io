@@ -1,37 +1,26 @@
-## Welcome to GitHub Pages
+## Welcome to the VWST download link + random memes idk
 
-You can use the [editor on GitHub](https://github.com/vwst-site/vwst-site.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+vaping bad btw
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Wtf is a VWST?
 
-### Markdown
+A VWST is a simple application, that provides you a nice lil toolset to do with what you please in your journey to un-fuck your computer. But VWST is more than that, VWST isn't just an application, isn't just a toolest, isn't just a name.
+It's a fucking mistake.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+### How do I get a VWST?
+[Click this link] ()
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
+### My VWST doesn't work, what do I do?
+Most likely your main issue is that you have 0 bitches, but for the small chance you actually pull up and recieve maidens, feel free to join the Discord (still need to make it) and report the issue 2 me
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
+### Can I join the dev team for VWST?
+First you must ask yourself these questions three:
 
-[Link](url) and ![Image](src)
-```
+1. Do I have a life?
+2. Am I an eshay bahhh?
+3. Am I a redditor who dwells in their mothers basement and Discord mods all day?
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/vwst-site/vwst-site.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Your answer to these questions is fucking irrelevant its still a no
